@@ -1,0 +1,27 @@
+.p{
+    height: 380px;
+width: 270px;
+
+border-radius: 10px;
+
+
+margin-left: 100px;
+}
+img{
+    height: 320px;
+    width: 270px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+/* .k{
+    height: 80px;
+    width: 270px;
+    background-color: orange;
+    border-radius: 10px;
+} */
+ .c{
+  
+    text-align: center;
+    background-color: orange;
+
+ }
